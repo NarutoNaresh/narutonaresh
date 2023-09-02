@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh D. Kumar</h1>
+<h4 align="center">😄 Pronouns: He/Him</h4>
 <h3 align="center">A Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutonaresh&label=Profile%20views&color=0e75b6&style=flat" alt="narutonaresh" /> </p>
