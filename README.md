@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutonaresh&label=Profile%20views&color=0e75b6&style=flat" alt="narutonaresh" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://dnareshkumar.netlify.app/](https://dnareshkumar.netlify.app/)
+  
+- 👨‍💻 Project-1 available at [Go-lang CICD project ](https://github.com/NarutoNaresh/Currency-calculator-golang)
+  
+- 👨‍💻 Project-2 available at [Python CICD project ](https://github.com/NarutoNaresh/Todo-App-Python)
 
 - 📫 How to reach me **dnareshofficial@gmail.com**
-
-- ⚡ Fun fact **I'm from Jupiter**
 
 <p align="left">
 </p>
