@@ -11,6 +11,8 @@
 - 👨‍💻 Project-1 available at [Go-lang CICD project ](https://github.com/NarutoNaresh/Currency-calculator-golang)
   
 - 👨‍💻 Project-2 available at [Python CICD project ](https://github.com/NarutoNaresh/Todo-App-Python)
+  
+- 👨‍💻 Project-3 available at [Terraform Hands-On](https://github.com/NarutoNaresh/TerraformHandsOn)
 
 - 📫 How to reach me **dnareshofficial@gmail.com**
 
